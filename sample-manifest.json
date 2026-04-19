@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a7846389-1aa4-4e05-88d2-f7699c7e9a0d",
+  "export_job_id": "e6f53973-f51b-44e0-92fe-8b382495fff4",
   "id_short": 811280,
-  "published_at": "2026-04-13T08:00:41Z",
+  "published_at": "2026-04-19T07:13:57Z",
   "repo_name": "the-hhi-monopoly-index-for-wisconsin-us-sample-811280",
   "sample_asset_name": "beamstation_811280_restaurants-us-wi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/811280/beamstation_811280_restaurants-us-wi_SAMPLE_DIST.csv",
-  "sample_records": 72,
-  "sample_sha256": "bd9717b0467f498d40ff7542a569ec106cb0cafcd8000ae80624dc735f4c7492",
-  "sample_size_bytes": 288032,
-  "total_records": 724
+  "sample_records": 68,
+  "sample_sha256": "8fd72011e10fdcd3ca89252a2fbcb598b4258968f478474311c98304f9eea6e5",
+  "sample_size_bytes": 276835,
+  "total_records": 682
 }
