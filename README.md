@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Wisconsin, US
 
-> Free BeamStation sample export with 68 rows and masked direct-contact fields.
+> Free BeamStation sample export with 47 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `811280` |
 | Location | Wisconsin |
 | Category | Restaurants |
-| Full dataset size | 682 records |
-| Free sample size | 68 records (9.97%) |
-| Last export | 2026-04-15T06:45:04.376843+00:00 |
+| Full dataset size | 479 records |
+| Free sample size | 47 records (9.81%) |
+| Last export | 2026-04-22T12:51:30.144623+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-wisconsin-us-sample-811280/releases/download/sample-latest/beamstation_811280_restaurants-us-wi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
